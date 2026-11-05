@@ -3,8 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 https://iptv-org.github.io/iptv/countries/cn.m3u
-
-
+https://gist.githubusercontent.com/a86827531/3ceb323448038c6085b011b35915ab2b/raw/445782dd2d1150e1ce2ce8d7c1acd8e31e049668/TV107.m3u
 
 
 [WHITELIST]
